@@ -1,0 +1,95 @@
+
+/* App.css */
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.sort-bar {
+  margin-bottom: 10px;
+}
+
+.filter-section {
+  margin-bottom: 20px;
+}
+
+.filter-checkbox {
+  margin-right: 10px;
+}
+
+.bot-specs {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.bot-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.bot-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.your-bot-army {
+  margin-top: 20px;
+}
+
+.your-bot-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+/* App.css */
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.sort-bar {
+  margin-bottom: 10px;
+}
+
+.filter-section {
+  margin-bottom: 20px;
+}
+
+.filter-checkbox {
+  margin-right: 10px;
+}
+
+.bot-specs {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.bot-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.bot-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.your-bot-army {
+  margin-top: 20px;
+}
+
+.your-bot-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
